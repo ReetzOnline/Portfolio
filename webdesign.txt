@@ -1,0 +1,40 @@
+Home: 
+top half 
+  large image at top half centred (eventually photo of me)
+  name Software Engineer centered
+bottom half
+  about me centred 
+  
+Portfolio:
+  in tiles
+   db design
+   java game
+   SQL db implementation
+   github
+   website development
+   webserver
+   github
+  
+  CV:
+    tabular layout and clean
+    based on optimisation
+   
+  Contact:
+    name, number, email, website on left
+    include form on right
+    
+    
+  Design notes:
+     gather and edit content in HTML, then add CSS, etc.
+     view portfolio and CV designs in WIX eg https://lauritta7.wixsite.com/mysite
+     incorporate UX design eg useful, usable, desirable, valuable, findable, accessible, credible
+     customers should see me as professional, contemporary and reliable 
+     they should see that their stakeholders would find me accessible and empowering 
+     consider branding, colours investigated, see reetz colours doc in onedrive:
+         teal (professional) 
+         yellow (contemporary & young) 
+         green (reliable) 
+         gold (power) 
+         turquoise (calm)
+      
+      
