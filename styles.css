@@ -1,6 +1,6 @@
-body {background-color: #ffffcc/*light yellow*/; font-family: Arial,sans-serif;
+body {margin:10px; background-color: #ffffcc/*light yellow*/; font-family: Arial,sans-serif;}
 
-nav {padding: 10px; margin:5px; font-family: times, serif; font-size: 16px; text-align: center; word-spacing: 30px;}
+nav {padding-bottom: 15px; font-family: times, serif; font-size: 16px; text-align: center; word-spacing: 30px;}
 
 h1 {color: #00cccc/*turquise*/; text-align: left;}
 
@@ -14,7 +14,7 @@ ol li {color: gold;}
 
 p {line-height: 20px;}
 
-button {background-color:#99cc99/*light green*/;}
+button {background-color:#009900/*green*/; font-weight: bold; font-size: 14px;}
 
 button:hover {background-color:  #ffcc00/*gold*/;}
 
