@@ -1,0 +1,10 @@
+$gold: #ffcc00;/*gold*/
+
+button:hover {background-color:  $gold;}
+
+#homediv {text-align:center;
+  #me {color: $gold;
+  }
+  p {font-weight: bold;
+  }
+}

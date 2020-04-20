@@ -25,7 +25,7 @@ Portfolio:
 
   Contact:
     name, number, email, website on left
-    include form on right
+    include form
 
 
   Design notes:

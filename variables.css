@@ -1,0 +1,12 @@
+/*gold*/
+button:hover {
+  background-color: #ffcc00; }
+
+#homediv {
+  text-align: center; }
+  #homediv #me {
+    color: #ffcc00; }
+  #homediv p {
+    font-weight: bold; }
+
+/*# sourceMappingURL=variables.css.map */
